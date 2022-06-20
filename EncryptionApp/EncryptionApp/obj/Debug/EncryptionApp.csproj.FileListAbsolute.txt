@@ -1,0 +1,10 @@
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe.config
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.pdb
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.AssemblyReference.cache
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.frmEcryptapp.resources
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.Properties.Resources.resources
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.GenerateResource.cache
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.exe
+C:\Users\j\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.pdb
